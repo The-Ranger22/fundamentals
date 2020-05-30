@@ -1,7 +1,8 @@
 public class Variables {
     public static void main(){
         /*
-        Java is a hard typed programming language, that, unlike Python, requires the data type of its variables to be expressly declared
+        Java is a hard typed programming language, that, unlike Python, requires the data type of its variables to be
+        expressly declared
          */
         int integer = 0;
         /*
@@ -30,7 +31,6 @@ public class Variables {
         (For more in depth explanations, visit: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
         |--------------------------------------------------------------------------------------------------------------|
          */
-
 
     }
 }
