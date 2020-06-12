@@ -18,7 +18,7 @@ public class Selections {
         statements later on.
          */
         Scanner input = new Scanner(System.in); //Used to take input from user
-        /** IF-ELSEIF-ELSE Statements */
+        /** IF-ELSE Statements */
         int aNumber; //Declaring aNumber as int
 
         System.out.print("Input a number:");
@@ -38,7 +38,7 @@ public class Selections {
         }
 
         System.out.println("|-----|-----|-----|-----|-----|-----|-----|");
-        /** @SWITCH-CASE Statements */
+        /** SWITCH-CASE Statements */
         String aWord; //Declaring aWord as a String
 
         System.out.print("Enter a letter: ");
